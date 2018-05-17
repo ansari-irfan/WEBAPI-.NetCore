@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HPPanelServices.Data\HPPanelServices.Data.csproj" />
+    <ProjectReference Include="..\HPPanelServices.Model\HPPanelServices.Model.csproj" />
+  </ItemGroup>
+
+</Project>

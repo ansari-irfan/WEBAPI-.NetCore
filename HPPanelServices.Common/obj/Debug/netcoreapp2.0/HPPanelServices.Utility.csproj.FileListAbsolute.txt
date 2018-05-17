@@ -1,0 +1,9 @@
+E:\Learning\HPPanelServices\HPPanelServices.Common\bin\Debug\netcoreapp2.0\HPPanelServices.Utility.deps.json
+E:\Learning\HPPanelServices\HPPanelServices.Common\bin\Debug\netcoreapp2.0\HPPanelServices.Utility.dll
+E:\Learning\HPPanelServices\HPPanelServices.Common\bin\Debug\netcoreapp2.0\HPPanelServices.Utility.pdb
+E:\Learning\HPPanelServices\HPPanelServices.Common\obj\Debug\netcoreapp2.0\HPPanelServices.Utility.csprojResolveAssemblyReference.cache
+E:\Learning\HPPanelServices\HPPanelServices.Common\obj\Debug\netcoreapp2.0\HPPanelServices.Utility.csproj.CoreCompileInputs.cache
+E:\Learning\HPPanelServices\HPPanelServices.Common\obj\Debug\netcoreapp2.0\HPPanelServices.Utility.AssemblyInfoInputs.cache
+E:\Learning\HPPanelServices\HPPanelServices.Common\obj\Debug\netcoreapp2.0\HPPanelServices.Utility.AssemblyInfo.cs
+E:\Learning\HPPanelServices\HPPanelServices.Common\obj\Debug\netcoreapp2.0\HPPanelServices.Utility.dll
+E:\Learning\HPPanelServices\HPPanelServices.Common\obj\Debug\netcoreapp2.0\HPPanelServices.Utility.pdb

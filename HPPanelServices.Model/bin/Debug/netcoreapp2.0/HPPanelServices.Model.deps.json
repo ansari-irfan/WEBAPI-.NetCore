@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "HPPanelServices.Model/1.0.0": {
+        "dependencies": {
+          "HPPanelServices.Utility": "1.0.0"
+        },
+        "runtime": {
+          "HPPanelServices.Model.dll": {}
+        }
+      },
+      "HPPanelServices.Utility/1.0.0": {
+        "runtime": {
+          "HPPanelServices.Utility.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HPPanelServices.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HPPanelServices.Utility/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
